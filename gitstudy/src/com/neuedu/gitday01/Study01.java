@@ -6,5 +6,6 @@ public class Study01 {
 		System.out.println("001");
 		System.out.println("001");
 		System.out.println("001");
+		System.out.println("001");
 	}
 }
